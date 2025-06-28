@@ -25,5 +25,5 @@ This is a simple Python Flask-based HTTP web server that responds to requests on
 
 ## Usage
 
-        Endpoint GET /<user>
-        Example GET /octocat
+        **Endpoint** GET /<user>
+        **Example** GET http://localhost:8080/octocat
